@@ -1,3 +1,11 @@
+**📢 Repository Moved (2025-07-23)**
+
+This repository has been moved to: https://github.com/comphy-lab/Asymmetries-in-coalescence
+
+Please use the new location for all future development and contributions.
+
+---
+
 # Asymmetries-in-coalescence
 Asymmetries in coalescence: size asymmetry. Still axially symmetric. 
 
